@@ -1,0 +1,24 @@
+# Archivos generados por Python
+*.pyc
+__pycache__/
+
+# Entorno virtual de Python
+venv/
+env/
+APIMongo-env/
+
+# Archivos de registro y salida
+*.log
+*.txt
+
+# Archivos de configuración específicos de VSC
+.vscode/
+
+# Archivos de caché de Python
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos generados por IDE
+.idea/
+*.iml
